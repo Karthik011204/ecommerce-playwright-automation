@@ -1,5 +1,0 @@
-playwright
-pytest
-pytest-html
-pytest-xdist
-requests
