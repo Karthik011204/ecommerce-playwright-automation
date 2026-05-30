@@ -1,0 +1,16 @@
+{
+  "id": "12345678-abcd-1234-abcd-1234567890",
+  "name": "Ecommerce Environment",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://reqres.in/api",
+      "enabled": true
+    },
+    {
+      "key": "api_key",
+      "value": "reqres_9136ca630b814cdda7f9bc7acc4b3f84",
+      "enabled": true
+    }
+  ]
+}
